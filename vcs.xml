@@ -10,8 +10,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="paduck86@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/paduck86/html5.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\javascript" />
+    <option name="cloneParentDir" value="C:\html5" />
   </component>
 </application>
