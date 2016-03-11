@@ -1,0 +1,13 @@
+<templateSet group="Zen CSS">
+  <template name="proto" value="$class$.prototype.$method$ = function($params$) {&#10;$END$&#10;} " description="Generates a prototype" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="&quot;Class&quot;" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="&quot;method&quot;" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="&quot;params&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
