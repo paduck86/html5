@@ -1,0 +1,6 @@
+<templateSet group="JavaScript">
+  <template name="c" value="/* $end$ */" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
