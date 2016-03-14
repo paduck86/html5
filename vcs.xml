@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/paduck86/javascript.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/paduck86/reactjs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\github" />
